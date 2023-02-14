@@ -11,3 +11,5 @@ Actualmente cuenta con las siguientes funciones testeadas:
   - Extraer LOGS de dispositivos Fortigate, pasarlos a formatos JSON para que puedan ser usadas por herramientas de BI
   
 Para ampliar información sobre su licencia dirigirse al archivo LICENSE.md 
+
+En el archivo RENUNCIA COPYRIGHT.pdf se podrá encontrar la renuncia al cpyright de parte de la Institución Universitaria Salazar y Herrera, por lo cual la licencia final del proyecto está bajo el documento LICENSE.md
