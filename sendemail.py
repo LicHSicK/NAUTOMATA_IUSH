@@ -34,7 +34,7 @@ def send_email(email_recipient,
         server = smtplib.SMTP('smtp.office365.com', 587)
         server.ehlo()
         server.starttls()
-        server.login('andres.ortizb@comunidad.iush.edu.co', 'Hcil8708*')
+        server.login('andres.ortizb@comunidad.iush.edu.co', 'testpassword*')
         text = msg.as_string()
         server.sendmail(email_sender, email_recipient, text)
         print('email sent')
